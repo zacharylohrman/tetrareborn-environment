@@ -1,0 +1,11 @@
+@use 'dev';
+@use 'menu-main';
+@use 'fonts';
+
+:root {
+  --main-font: 'Roboto', sans-serif;
+}
+html {
+  background-color: #000;
+}
+
